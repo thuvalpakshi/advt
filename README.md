@@ -1,0 +1,1 @@
+Ads plugin for elgg 1.7.x version
